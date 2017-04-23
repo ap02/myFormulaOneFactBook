@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "CurrentSeasonDrivers",
+      "slots": [
+        {
+          "name": "Constructor",
+          "type": "LIST_OF_CONSTRUCTORS"
+        }
+      ]
+    },
+    {
+      "intent": "CurrentSeasonTeams"
+    }
+  ]
+}
